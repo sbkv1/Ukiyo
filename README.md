@@ -38,4 +38,4 @@ python main.py
 
 # Screenshots
 
-![image]https://i.postimg.cc/BL51T8yZ/1x.png)
+![image](https://i.postimg.cc/BL51T8yZ/1x.png)
