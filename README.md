@@ -38,8 +38,8 @@ After that, you want to open the config file(config.json) and input the followin
 </h1>
 
 If you don't know how to do either, here are tutorials on both:
-- How to create a discord webhook : (https://www.youtube.com/watch?v=fKksxz2Gdnc)
-- How to get your discord token : (https://www.youtube.com/watch?v=3qzpmTIQ-Gs)
+- How to create a discord webhook : https://www.youtube.com/watch?v=fKksxz2Gdnc
+- How to get your discord token : https://www.youtube.com/watch?v=3qzpmTIQ-Gs
 
 After you've done all that, you can finally run ukiyo by typing in the following command:
 ```
