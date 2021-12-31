@@ -13,7 +13,7 @@
 </p>
 
 # Features
-- Very colour interface
+- Very colourful interface
 - User friendly
 - Proxyless
 - Very fast
@@ -36,6 +36,10 @@ After that, you want to open the config file(config.json) and input the followin
 <h1 align="left">
 	<img src="https://cdn.discordapp.com/attachments/925859840734167122/926380233999913000/config.png" width="250px"><br>
 </h1>
+
+If you don't know how to do either, here are tutorials on both:
+![image](https://www.youtube.com/watch?v=fKksxz2Gdnc)
+![image](https://www.youtube.com/watch?v=3qzpmTIQ-Gs)
 
 After you've done all that, you can finally run ukiyo by typing in the following command:
 ```
