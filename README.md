@@ -27,6 +27,6 @@ After that, you want to open the config file(config.json) and input the followin
 - Your discord token.
 - A webhook to send the information to.
 
-<h1 align="center">
-	<img src="https://i.postimg.cc/dhntv2CK/config.png" width="150px"><br>
+<h1 align="left">
+	<img src="https://i.postimg.cc/dhntv2CK/config.png" width="350px"><br>
 </h1>
