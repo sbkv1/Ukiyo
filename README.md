@@ -58,3 +58,6 @@ python main.py
 ```
 github.com/1x12
 ```
+
+### Contribution;
+###### All contributions are accepted, just open an issue / pull request and i will get back to you as soon as i can.
