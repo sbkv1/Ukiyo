@@ -26,5 +26,7 @@ pip install -r requirements.txt
 After that, you want to open the config file(config.json) and input the following values:
 - Your discord token.
 - A webhook to send the information to.
-	
-![image](https://i.postimg.cc/dhntv2CK/config.png)
+
+<h1 align="center">
+	<img src="https://i.postimg.cc/dhntv2CK/config.png" width="150px"><br>
+</h1>
