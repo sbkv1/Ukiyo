@@ -30,3 +30,12 @@ After that, you want to open the config file(config.json) and input the followin
 <h1 align="left">
 	<img src="https://i.postimg.cc/dhntv2CK/config.png" width="250px"><br>
 </h1>
+
+After you've done all that, you can finally run ukiyo by typing in the following command:
+```
+python main.py
+```
+
+# Screenshots
+
+![image]https://i.postimg.cc/BL51T8yZ/1x.png)
