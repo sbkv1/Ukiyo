@@ -12,6 +12,12 @@
     	<img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
 </p>
 
+# Features
+- Very colour interface
+- User friendly
+- Proxyless
+- Very fast
+	
 # Setup
 	
 You can setup ukiyo by simply opening your terminal/console and pasting in the following command:
@@ -28,7 +34,7 @@ After that, you want to open the config file(config.json) and input the followin
 - A webhook to send the information to.
 
 <h1 align="left">
-	<img src="https://i.postimg.cc/dhntv2CK/config.png" width="250px"><br>
+	<img src="https://cdn.discordapp.com/attachments/925859840734167122/926380233999913000/config.png" width="250px"><br>
 </h1>
 
 After you've done all that, you can finally run ukiyo by typing in the following command:
@@ -38,4 +44,12 @@ python main.py
 
 # Screenshots
 
-![image](https://i.postimg.cc/BL51T8yZ/1x.png)
+![image](https://cdn.discordapp.com/attachments/925859840734167122/926380234905882654/1x.png)
+![image](https://cdn.discordapp.com/attachments/925859840734167122/926380234608103424/2x.png)
+![image](https://cdn.discordapp.com/attachments/925859840734167122/926380234415177728/3x.png)
+![image](https://cdn.discordapp.com/attachments/925859840734167122/926380234218029066/4x.png)
+
+# Credits
+```
+github.com/1x12
+```
