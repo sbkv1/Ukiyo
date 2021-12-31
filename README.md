@@ -18,8 +18,12 @@ You can setup ukiyo by simply opening your terminal/console and pasting in the f
 ```
 python setup.py
 ```
-or you can install the required modules manually by pasting in the following command:
+Or you can install the required modules manually by pasting in the following command:
 
 ```
 pip install -r requirements.txt
 ```
+After that, you want to open the config file(config.json) and input the following values:
+- Your discord token.
+- A webhook to send the information to.
+![image](https://i.postimg.cc/dhntv2CK/config.png)
