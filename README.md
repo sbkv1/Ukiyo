@@ -28,5 +28,5 @@ After that, you want to open the config file(config.json) and input the followin
 - A webhook to send the information to.
 
 <h1 align="left">
-	<img src="https://i.postimg.cc/4ntcG0xk/c.png" width="300px"><br>
+	<img src="https://i.postimg.cc/dhntv2CK/config.png" width="250px"><br>
 </h1>
